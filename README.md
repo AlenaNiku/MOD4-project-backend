@@ -1,4 +1,4 @@
-# "Taste of Russia" project-frontend
+# "Taste of Russia" project-backend
 Rails backend API for MOD4 final project "Taste of Russia" (browse, delete and save Russian recipes)
 ## Installation
 Clone the backend (server) and fire up the server first - rails s to start the server. 
